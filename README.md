@@ -30,7 +30,7 @@ const DemoComponent = () => <Asciidoc>*Asciidoc* content here...</Asciidoc>;
 
 ## Styling
 
-Use can use custom CSS. More info [here...](https://github.com/asciidoctor/asciidoctor-stylesheet-factory)
+You can use custom CSS. More info [here...](https://github.com/asciidoctor/asciidoctor-stylesheet-factory)
 
 ## API
 
